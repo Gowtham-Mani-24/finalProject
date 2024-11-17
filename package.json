@@ -1,0 +1,20 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "Online Assesment Paltform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gowtham-Mani-24/finalProject.git"
+  },
+  "author": "Gowtham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gowtham-Mani-24/finalProject/issues"
+  },
+  "homepage": "https://github.com/Gowtham-Mani-24/finalProject#readme"
+}
